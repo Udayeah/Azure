@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy data12",
+				"name": "Get Data from File and load into Server",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
