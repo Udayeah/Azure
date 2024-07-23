@@ -1,0 +1,9 @@
+{
+	"name": "adf-udaya-bk",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ae3587e-8968-43d3-8220-88582ad25e8f",
+		"tenantId": "02567a98-0a08-4e50-ad98-b15105cb3d2a"
+	}
+}
